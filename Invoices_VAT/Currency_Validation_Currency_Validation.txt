@@ -1,0 +1,6 @@
+﻿CHF
+CAD
+EUR
+GBP
+USD
+YEN

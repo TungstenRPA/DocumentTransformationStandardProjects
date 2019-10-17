@@ -1,0 +1,13 @@
+VendorID;CompanyCode;Name;Street;City;State;ZIP;PostBox;Country;FIDNumber;Phone;Fax;URL;Email
+190920;100;Arrow Electronics Incorporated;27121 Towne Centre Drive;Foothill Ranch;CA;92610;79329;US;;;;;
+287464;200;Dell USA L.P.;;Pasadena;CA;91185-1205;;US;74-2616805;;;www.dell.com ;
+349527;100;Oki Semiconductors;785 North Mary Avenue;Sunnyvale;CA;94085-2909;7060;US;;408-720-1900;408-720-1918;;
+405968;100;Precision Direct;68 Fairbanks;Irvine;CA;92618-1602;;US;;949 470 4600;949 470 4602;www.pdirect.com;
+532843;100;Rational Software Corporation;18880  Homestead Road;Cupertino;CA;95014;;US;54-1217099;;;;
+101010;100;Kofax Image Products;16245 Laguna Canyon Road;Irvine;CA;92618-3603;;US;;;;;
+222222;100;Northwest Techrep Inc.;16702 NW Arizone Drive;Beaverton;Origon;97006;;US;;;;;
+333333;100;Servizio;One Wall Street;Burlington;MA;01803;;US;;;;;
+444444;100;Skytap Inc;710 2nd Ave. Ste. 1130;Seattle;WA;98104;;US;;;;;
+555555;100;Staples;;Chigago;IL;60696-3689;;US;;;;;
+666666;100;The Source;15791 Rockfield;Irvine;CA;92618;;US;;;;;
+

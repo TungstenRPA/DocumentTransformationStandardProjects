@@ -1,0 +1,170 @@
+﻿___English___
+company registration code
+company registration number
+attn:po
+cust po
+cust po no:
+customer contract #
+customer contract no
+customer contract number
+customer order
+customer order #
+customer order no
+customer order no.
+customer order no:
+customer order number
+customer p.0.
+customer p.0. no
+customer p.0. number
+customer p.o#
+customer p.o,number
+customer p.o.
+customer p.o. no
+customer p.o. number
+customer p.o.#
+customer p/0 number
+customer p/0.
+customer p/o #
+customer p/o no
+customer p/o number
+customer po
+customer po no
+customer po number
+customer po#
+customer po. number
+customer purchase
+customer purchase order
+customer purchase order no
+customer ref.
+customer ref. no.
+customer reference number
+customer reference:
+customer's order no
+customer's order no.
+cutomer p.o.number
+order
+order no/req. no.
+p o no
+p o number
+p o. no.
+p o.no.
+p.0 #
+p.0 no
+p.0-#
+p.0. #
+p.0. #.
+p.0. #:
+p.0. no
+p.0. no.
+p.0. no:
+p.0. nuiber:
+p.0. number
+p.0.#
+p.0.#/job name:
+p.0.no
+p.0.number
+p.0:#
+p.o. no.
+p.o. no:
+p.o. number
+p.o.#
+p.o.#.
+p.o.#:
+p.o.no.
+p/o #
+p/o #:
+po #
+po no.
+po number:
+po#
+po.
+po. number
+po.number
+po/contract
+po:
+purc. order number
+purchase order
+purchase order no.
+purchase order number
+purchase order#
+purchase order:
+your 0rder
+your o
+your order no.
+your order no:
+your order number
+your order ref.
+your order reference
+your order/job name
+your po - number
+your purchase order
+your purchase order no.
+your purchase order number
+your reference
+your reference number
+Your P.O. No. 
+PO - NR :
+Reference no. :
+Customer Purchase Order
+Purchase
+Your order ref. :
+___German___
+Bestell - Daten
+Ihre Best.Nr. :
+Bestellung
+Ihre Ref. / Datum
+Bestellung - Nr. :
+best. datum
+best. nr.
+bestell datum
+bestellnr
+bestellnummer
+ihr auftrag
+ihre best
+ihre bestellnummer
+ihre zeichen
+zeichen
+Ihre Bestellung - Nr. :
+Auftragsnummer
+Ihr Beleg
+IHRE BESTELLUNG
+Ihre Bestell
+Ihre Referenz
+Ihre Bestell - Nr. :
+Ihre Bestell - Nr. :
+Referenznummer
+Bestell - Nr.
+Ihre Referenz :
+Bestell - Nr. :
+___French___
+cde
+no commande du client
+no de comm du client
+no de commande
+no de sont d'achat
+no. de bon de commande
+no. de commande du client
+ref cde
+ref commande
+v/réf
+v/ref
+vos references
+vos refs
+votre commande
+votre référence
+votre reference
+___Spanish___
+número de pedido
+número pdo
+número pedido
+num pdo
+num pedido
+numero de pedido
+numero pdo
+numero pedido
+s.ref
+su pedido
+su referencia
+___Italian___
+Vostro Ordine
+RIFERIMENTO ORDINE

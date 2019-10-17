@@ -1,0 +1,111 @@
+﻿### English ###########################################
+Billing
+Billing doc
+Billing doc. No :
+credit note no
+debit memo
+doc no
+document
+document no
+document no.:
+document number
+freight bill no
+inv #
+inv n0
+inv no
+inv no.
+inv#:
+inv. number
+inv.#
+invno
+invoice
+invoice - facture
+invoice #
+invoice no
+invoice no/type:
+invoice nr.
+invoice num
+invoice number
+invoice reference
+invoicenumber
+lnv #
+lnv. no.:
+lnvolce number
+new sales this invoice
+number on your remittance
+nvoice no:
+our ref
+please refer to this number
+pro#
+remit invoice #
+### German ###########################################
+beleg
+belegnr
+belegnr.
+belegnr. / - datum
+belegnr./
+belegnummer
+bescheids
+bescheids-nr.
+bitte bei zahlung stets angeben
+dokument
+dokumentnr 
+dokumentnummer
+rech num
+rechnr
+rechnung
+rechnungs - Nr. :
+rechnungsdatum
+rechnungsnr
+rechnungsnummer
+vorschussanforderung
+### Spanish ###########################################
+cargo
+cargo número
+factura
+factura n.°
+factura num
+factura numero
+factura número
+fra n°
+n" de factura
+n" factura
+n° factura
+nº documento
+no factura
+nº factura
+num documento
+num factura
+num. de factura
+número
+numero de documento
+número de documento
+numero de factura
+número de factura
+numero documento
+número documento
+numero factura
+número factura
+numero n/c
+###Italian###########################################
+Accompagnatoria
+Differita
+faltura
+fattura
+Numero
+numero fattura
+### French ###########################################
+facture
+FACTURE N °
+facture n°
+facture no
+N ° Facture
+n° doc
+n° document
+n° facture
+no doc
+no document
+no facture
+numero
+piece
+pièce

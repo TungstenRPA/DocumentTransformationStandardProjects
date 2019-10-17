@@ -1,0 +1,127 @@
+﻿___General___
+€
+£
+¥
+$
+%
+@
+total
+EUR
+___German___
++49
+anschrift
+art-nr.
+artikel
+auftraggeber
+bic
+blz
+eingegangen
+email
+fax
+fax +49
+febi - nr
+hra
+hrb
+iban
+id - nr
+kd-nr
+kdnr
+kto - nr
+kunde
+kundennr
+lieferdatum
+lieferscheinnr
+postfach
+rechn. - empf
+rechnungsbetrag
+seite
+sitz
+steuer
+steuer - nr
+steuernummer
+str.
+swift
+tel+49
+telefax
+telefon
+telefon
+zu ls.
+Auftragsnummer
+___Italian___
+Bonifico
+via
+reg. imp.
+___English___
+account
+advice
+before
+carrier ref
+catalogue
+charge note
+company registration code
+company registration number
+delivery
+delivery note
+department
+dept
+despatch
+description
+description
+discount
+fax number
+fax number
+item
+o.box
+office
+payment due
+phone
+price
+qty
+quantity
+registered
+sales
+ship
+stock code
+style
+tel
+telephone
+total
+vat
+vat registration
+___French___
+___Spanish___
+albaran
+apartado
+banco
+c.i.f
+cif
+clau
+clau factura
+clave
+cliente
+contrato
+documento
+encargo
+entrega
+euros
+fac
+factura
+fax
+folio
+hoja
+import
+insc
+liquido
+n.i.f
+n.ref
+nif
+nuestro
+pedido
+periodo facturado
+planta
+prov
+proveedor
+soluciones
+tomo
+total
+vencimiento

@@ -1,0 +1,48 @@
+﻿___English___
+amount
+amount due
+balance due
+currency
+final total
+grand total
+invoice amount
+invoice total
+pay this amount
+please pay
+total amount
+total amt
+total £ lncl. vat
+total value
+total in £ 
+total due
+total inv price
+total sales amount
+total to pay
+total (usd)
+US $
+credit
+___German___
+Pos Menge Bezeichnung
+preis
+poswert
+gesamt
+gesamtpreis
+gesamtsumme
+gesamtbetrag
+endbetrag
+betrag
+MwSt
+Währung
+RECHNUNGSBETRAG
+einzelpreis
+endpreis
+gesamtbestellwert
+gutschrift
+währung
+wahrung
+endsumme
+Betrag
+Gutschriftsbetrag
+___Spanish___
+___French___
+___Italian___

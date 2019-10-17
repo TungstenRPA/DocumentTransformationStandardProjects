@@ -1,0 +1,88 @@
+hours;HR
+days;DA
+weeks;WK
+months;MT
+
+box;BX
+case;CA
+ca;CA
+carton;CT
+ct;CT
+centimeter;CM
+cm;CM
+cubic centimeter;CC
+cc;CC
+cubic feet;CF
+cf;CF
+cubic inches;CI
+ci;CI
+cubic meter;CR
+cr;CR
+ea;EA
+each;EA
+feet;FT
+fluid ounce;FO
+fo;FO
+gallon;GA
+ga;GA
+gram;GR
+inches;IN
+hundred pounds;CW
+hundred feet;HL
+hl;HL
+cwt;CW
+cw;CW
+kg;KG
+kilo;KG
+kilogram;KG
+kilogram;KG
+lbs;LB
+linear foot;LF
+liter;LT
+litre;LT
+lt;LT
+linear meter;LM
+lm;LM
+m;MR
+meter;MR
+meter;MR
+metre;MR
+square meter;SM
+m2;SM
+sm;SM
+millimeter;MM
+mm;MM
+milligrams;ME
+milliliter;ML
+ml;ML
+ounces;OZ
+pack;PH
+pac;PH
+ph;PH
+package;PK
+pk;PK
+palet;PL
+pl;PL
+pair;PR
+pr;PR
+piece;PC
+pc;PC
+pcs;PC
+pounds;LB
+lb;LB
+pair;PR
+pr;PR
+pint;PT
+pt;PT
+set;ST
+st;ST
+sheet;SH
+sh;SH
+sqare foot;SF
+sf;SF
+yard;YD
+yd;YD
+square yard;SY
+sy;SY
+unit;UN
+un;UN

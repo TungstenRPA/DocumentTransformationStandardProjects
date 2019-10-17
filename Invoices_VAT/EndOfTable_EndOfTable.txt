@@ -1,0 +1,45 @@
+﻿___English___
+Net price VAT Net price VAT Total
+Sub total ( net ) Plus VAT : VAT Amount Total Amount ( incl VAT )Payment terms : 10 Days for 3.0% Discount or 30 days in full.
+Order amount net 506.95
+thank you for your business
+We thank you for your order.
+Payment terms : 10 Days for 3.0% Discount or 30 days in full.
+Sub total ( net ) Plus VAT : VAT Amount Total Amount ( incl VAT )
+Net price ( 1 ) VAT ( 1 ) Net price ( 2 ) VAT ( 2 ) Total
+VAT Code VAT Code Description VAT ( % ) Net Amount VAT Amount Gross Amount
+Payment Terms
+VAT Summary Table
+Freight Item Total VAT INVOICE AMOUNT
+___French___
+condition de paiement
+escompte
+sous-total
+___German___
+ausgangssteuer ( mwst ) 19,00 %
+bitte zahlen sie den angegebenen betrag
+das datum des lieferscheins entspricht dem lieferzeitpunkt
+endsumme
+gesamt netto
+gesamtsumme
+gesamtwarenwert
+mehrwertsteuer
+mwst. 19.00 %von 
+netto - zwischensumme
+netto ust. endbetrag
+nettobetrag 19 % mwst endbetrag / eur
+nettosumme
+nettowert mwst% mwst - betrag bruttowert
+obsolete packaging materials 
+steuerpflichtiger
+summe positionen
+total eur ohne mwst.
+unsere zufriedenen kunden zahlen sofort rein netto
+warenwert
+zahlbar netto
+zahlung am 25 des folgemonats netto
+zahlungsbedingungen
+zahlungskondition
+zuzugl. mwst
+___Spanish___
+

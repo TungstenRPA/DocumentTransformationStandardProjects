@@ -1,0 +1,16 @@
+﻿___English___;___
+Invoice;1
+Credit Note;2
+Credit;2
+___German___;____
+Rechnung;1
+Gutschrift;2
+Gutschriftsanzeige;2
+___Other____;____
+Faktura;1
+Fattura-1;1
+Facturar A;1
+Facture;1
+Fattura Accompagnatoria;1
+Fatura;1
+Faturar;1

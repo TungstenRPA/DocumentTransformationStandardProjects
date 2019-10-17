@@ -1,0 +1,31 @@
+___English___
+order date
+customer order
+shipping date
+payment due
+due date
+entry date
+if paid by
+___German___
+bestelldatum
+best. datum
+bestellnummer
+best.nr.
+bestnr
+___Italian___
+data ordine
+ordine
+DATA ORDINE
+del
+___French___
+___Spanish___
+data de pedido
+data pdo
+data pedido
+data s.ref
+data su pedido
+fecha de pedido
+fecha pdo
+fecha pedido
+fecha s.ref
+fecha su pedido

@@ -1,0 +1,15 @@
+﻿Name: Layout
+LearnsetPath: C:\Users\stein.keijzers\Downloads\StandardProjects5\Invoices_SalesTax\Learn\Layout
+(This view is now the top level classifier whose settings are available in the Project Settings on the Classification tab)
+
+Type: TiffClassifier
+
+Optimize Classification for: Invoices
+Enable skew tolerance: ON
+Max. samples per class: 0
+Class homogeneity: 0.800000
+Noise Filter: 0.150000
+
+Training documents by path:
+
+Training documents:

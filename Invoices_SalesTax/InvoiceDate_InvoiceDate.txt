@@ -1,0 +1,77 @@
+###English#############################
+bill date
+bill no
+bill was mailed on
+credit note date
+current date
+date billed
+date invoiced
+Document Date :
+inv date
+inv. date
+invoice date
+invoice/ship date
+invoiced
+invoicedate
+jnvoice date
+lnv date
+lnv. date:
+lnvoice date
+lnvoke date
+lnvolce date
+mailed on
+nvoice date
+statement date
+tax date
+tax point
+was mailed on
+week ending
+###German#############################
+ausstellungsort
+Beleg - Datum
+datum
+Datum.... :
+dienstag
+donnerstag
+rech datum
+rechd
+rechdatum
+rechnr
+rechnung datum
+rechnungs nr
+rechnungs nummer
+rechnungsdatum
+den
+montag
+dienstag
+mittwoch
+donnerstag
+freitag
+samstag
+sonntag
+###French#############################
+date
+date de facturation
+date de facture
+date de la facture
+date de l'avoir
+date doc
+date du credit
+date fact
+date facture
+du
+###Italian###
+Data
+data doc.
+del
+Fattura
+###Spanish#############################
+data
+data de factura
+data factura
+emision
+fecha
+fecha
+fecha fac
+fecha factura
+fecha factura
